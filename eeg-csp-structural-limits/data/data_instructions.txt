@@ -1,0 +1,2 @@
+Dataset not included due to licensing.
+Download Mendeley Motor Imagery Limb EEG dataset and place preprocessed arrays in this directory.
